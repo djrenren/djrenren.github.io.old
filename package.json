@@ -16,7 +16,6 @@
     "nuxt": "^1.0.0-rc11"
   },
   "devDependencies": {
-    "@nuxtjs/font-awesome": "^1.0.2",
     "babel-eslint": "^7.2.3",
     "eslint": "^4.3.0",
     "eslint-config-standard": "^10.2.1",
