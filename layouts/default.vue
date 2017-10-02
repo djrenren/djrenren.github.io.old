@@ -19,7 +19,7 @@ html {
 
 body, #__nuxt {
   height: 100%;
-  background: #EFEFEF;
+  background: #009999;
 }
 
 *, *:before, *:after {
