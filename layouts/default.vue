@@ -4,7 +4,7 @@
 
 <style>
 html {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -25,5 +25,9 @@ body, #__nuxt {
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+a {
+  color: #009999;
 }
 </style>

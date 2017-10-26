@@ -1,8 +1,9 @@
 <template>
   <Chunk class="pub-chunk" title="Publications">
-      <div>
-        Coming Soon<sup>&trade;</sup>
-      </div>
+    <Publication
+      title="Constant-Time WebAssembly"
+      authors="John Renner, Sunjay Cauligi, Deian Stefan"
+      src="https://github.com/djrenren/djrenren.github.io/releases/download/wasm-review/main.pdf" />
   </Chunk>
 </template>
 
@@ -14,10 +15,11 @@
 
 <script>
 import Chunk from '~/components/Chunk'
-
+import Publication from '~/components/Publication'
 export default {
   components: {
-    Chunk
+    Chunk,
+    Publication
   }
 }
 </script>
