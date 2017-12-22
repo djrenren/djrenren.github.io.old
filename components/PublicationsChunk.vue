@@ -3,7 +3,7 @@
     <Publication
       title="Constant-Time WebAssembly"
       authors="John Renner, Sunjay Cauligi, Deian Stefan"
-      src="https://github.com/djrenren/djrenren.github.io/releases/download/wasm-review/main.pdf" />
+      src="https://github.com/djrenren/djrenren.github.io/releases/download/wasm-final/main.pdf" />
   </Chunk>
 </template>
 
